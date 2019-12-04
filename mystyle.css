@@ -1,5 +1,5 @@
 body {
-  background-image:url("https://images-na.ssl-images-amazon.com/images/I/51REXNocAwL._SL1000_.jpg");
+  background-image:url(https://cdn.hipwallpaper.com/i/42/1/qeG9i7.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10,13 +10,19 @@ h1 {
   font-family: "Segoe Script";
   font-size: 45px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
 } 
 
 p {
   color: blue;
   font-size: 20px;
   font-style: italic;
+  text-align: left;
+  font-weight: bold;
+}
+p1 {
+  color: red;
+  font-size: 20px;
   text-align: left;
   font-weight: bold;
 }
